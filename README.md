@@ -602,6 +602,7 @@ There's a lot of cool projects here that I have no association with. Run them at
 - [invidtui](https://github.com/darkhz/invidtui) A TUI Invidious client for Windows, Linux and MacOS, that fetches and plays audio/video from an invidious instance. Supports viewing and playing from playlists and channels as well.
 - [jellyfin-tui](https://github.com/dhonus/jellyfin-tui) Jellyfin client
 - [kew](https://github.com/ravachol/kew) A terminal music player for Linux
+- [lazyspotify](https://github.com/dubeyKartikay/lazyspotify) Terminal Spotify client with a cassette deck-inspired TUI
 - [line](https://github.com/pd3v/line) Tiny command-line midi sequencer and language for live coding
 - [MAL-Cli](https://github.com/L4z3x/mal-tui) A terminal interface for the official myanimelist api written in rust.
 - [managarr](https://github.com/Dark-Alex-17/managarr) A TUI and CLI for managing your \*arr servers
